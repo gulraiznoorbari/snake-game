@@ -1,6 +1,3 @@
-""" FOLLOWED NEW BOSTON TUTORIAL SERIES """
-""" SNAKE GAME """
-
 import pygame
 import random
 pygame.init()           #initializing pygame
